@@ -1,7 +1,7 @@
 # proceduralVisuals
 procedural visuals for live audio
 
-![Looks something like that innit](treeSpook.gif)
+![Looks something like that innit](treesSpook.gif)
 
 some files use midi keys for controls
 some use keyboard
